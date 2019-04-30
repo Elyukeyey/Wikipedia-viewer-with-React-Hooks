@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Wikipedia Viewer
 
-Test the app [here](http://luka.isms.si/wikisearch)
+Test the app [here](http://luka.isms.si/wikisnippets)
 
 You can:
 * Search Wikipedia articles
